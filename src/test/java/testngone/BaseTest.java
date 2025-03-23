@@ -18,6 +18,6 @@ public class BaseTest {
 
     @Test
     public void test2() {
-        System.out.println("Running test 2");
+        System.out.println("Running test 3");
     }
 }
